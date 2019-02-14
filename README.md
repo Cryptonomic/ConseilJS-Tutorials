@@ -24,12 +24,12 @@ See below for the branch structure for this tutorial.
 ```
 |
 |- web-wallet/start (YOU ARE HERE)
-|- web-wallet/step1
-|- web-wallet/step1-complete
-|- web-wallet/step2
-|- web-wallet/step2-complete
-|- web-wallet/step3
-|- web-wallet/step3-complete
+|- web-wallet/step-1
+|- web-wallet/step-1-complete
+|- web-wallet/step-2
+|- web-wallet/step-2-complete
+|- web-wallet/step-3
+|- web-wallet/step-3-complete
 ```
 
 If you ever get stuck during any of the steps, you can consult the `-complete` version of it for solutions.
