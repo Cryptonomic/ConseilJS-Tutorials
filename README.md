@@ -154,7 +154,7 @@ In the next step, we will create and inject operations to our Tezos node using C
 
 **First commit the changes you made on this branch**
 ```
-git commit -m "completed the second step of web-wallet tutorial"
+git commit -a -m "completed the second step of web-wallet tutorial"
 ```
 
 **Switch to the branch you desire**
