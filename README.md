@@ -167,7 +167,7 @@ Happy Hacking!
 To visit the completed version of this tutorial:
 
 ```
-git commit -m "completed the final step of web-wallet tutorial"
+git commit -a -m "completed the final step of web-wallet tutorial"
 git checkout web-wallet/step-3-complete
 ```
 Open up this branch in your [browser](https://github.com/Cryptonomic/ConseilJS-Tutorials/tree/web-wallet/step-3-complete).
