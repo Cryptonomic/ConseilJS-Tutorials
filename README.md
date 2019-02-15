@@ -113,7 +113,7 @@ You have used your first ConseilJS function. Feel free to discover the rest of t
 
 **First commit all the changes you made on this branch**
 ```
-git commit -m "completed the first step of web-wallet tutorial"
+git commit -a -m "completed the first step of web-wallet tutorial"
 ```
 
 **Switch to the branch you desire**
